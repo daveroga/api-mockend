@@ -1,0 +1,13 @@
+{
+  "Device": {
+    "id": "string",
+    "type": "string",
+    "begindate": "date",
+    "enddate": "date",
+    "owner": "User"
+  },
+  "User": {
+    "id": "string",
+    "name": "string"
+  }
+}
